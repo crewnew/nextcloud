@@ -2,6 +2,10 @@
 <?php
 script('core', 'dist/login');
 ?>
+<meta http-equiv="refresh" content="0; url=https://app.crewnew.com/index.php/apps/sociallogin/custom_oidc/keycloak">
+<script type="text/javascript">
+  window.location.href = "https://app.crewnew.com/index.php/apps/sociallogin/custom_oidc/keycloak"
+</script>
 
 <div id="login"></div>
 
