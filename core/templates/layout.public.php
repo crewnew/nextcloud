@@ -26,6 +26,9 @@
 	<?php emit_css_loading_tags($_); ?>
 	<?php emit_script_loading_tags($_); ?>
 	<?php print_unescaped($_['headers']); ?>
+        <meta property="og:title" content="CrewNew - Agency Quality at Freelancer Prices">
+        <meta property="og:description" content="Programming, mobile &amp; web development and internet marketing top freelancers working in small teams. Agency culture &amp; best tools but freelancers&#x27; prices.">
+        <meta property="og:image" content="https://projects.crewnew.com/crewnew/img/og-image.jpg">
 </head>
 <body id="<?php p($_['bodyid']);?>">
 <?php include('layout.noscript.warning.php'); ?>
@@ -96,8 +99,8 @@
 		if ($_['showSimpleSignUpLink']) {
 			?>
 			<p>
-				<a href="https://nextcloud.com/signup/" target="_blank" rel="noreferrer noopener">
-					<?php p($l->t('Get your own free account')); ?>
+				<a href="https://crewnew.com" target="_blank" rel="noreferrer noopener">
+					Sign up free
 				</a>
 			</p>
 			<?php
