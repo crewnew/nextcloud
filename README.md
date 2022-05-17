@@ -14,3 +14,20 @@ app.crewnew.com
 8. Client Id: app.crewnew.com
 9. Client Secret: 41e00521-e90d-473d-905e-27a876cc61dd
 10. Scope: openid
+
+## Apps
+
+* AppOrder
+* Deleted Files
+* External Sites
+* Link Editor (add links to NC)
+* PDF viewer
+* Recommedations
+* Right click
+* Versions (maintain older versions)
+
+## Apps to test
+
+* Breeze Dark
+* Notifications
+* Photos
