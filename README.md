@@ -31,3 +31,13 @@ app.crewnew.com
 * Breeze Dark
 * Notifications
 * Photos
+
+## External sites
+
+* Boards https://boards.crewnew.com
+* Slack https://slack.crewnew.com
+* Database https://cms.crewnew.com
+* Reports https://tracker.toptal.com/app/reports
+* ATS https://ats.crewnew.com
+
+Icons: https://app.crewnew.com/apps/files/?dir=/_MarketingDesignVideo/FaviconFontsIcons
